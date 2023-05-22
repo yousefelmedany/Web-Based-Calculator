@@ -1,0 +1,57 @@
+2023.04.13 01:41:04 INFO  Started: Metals version 0.11.11 in workspace '/home/yousef/Downloads/demo' for client Visual Studio Code 1.77.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/yousef/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.13 01:41:06 INFO  time: initialize in 2.5s
+2023.04.13 01:41:17 WARN  Build server is not auto-connectable.
+2023.04.13 01:41:18 WARN  no build target for: /home/yousef/Downloads/demo/src/main/java/com/example/demo/calculator/calcontroller.java
+Apr 13, 2023 1:41:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Apr 13, 2023 1:41:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Apr 13, 2023 1:41:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Apr 13, 2023 1:41:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2023.04.13 01:41:38 INFO  time: code lens generation in 19s
+Apr 13, 2023 1:41:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+2023.04.13 01:41:48 INFO  time: code lens generation in 30s
+2023.04.13 01:43:04 INFO  Started: Metals version 0.11.11 in workspace '/home/yousef/Downloads/demo' for client Visual Studio Code 1.77.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/yousef/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.13 01:43:08 INFO  time: initialize in 3.86s
+2023.04.13 01:43:21 WARN  Build server is not auto-connectable.
+2023.04.13 01:43:21 WARN  no build target for: /home/yousef/Downloads/demo/src/main/java/com/example/demo/calculator/calcontroller.java
+Apr 13, 2023 1:43:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2023.04.13 01:43:32 INFO  time: code lens generation in 10s
+2023.04.13 01:43:32 INFO  time: code lens generation in 7.33s
+2023.04.13 01:44:27 WARN  no build target for: /home/yousef/Downloads/demo/src/main/java/com/example/demo/calculator/calccontroller.java
+2023.04.13 01:44:48 INFO  time: code lens generation in 12s
+2023.04.13 01:51:19 INFO  Started: Metals version 0.11.11 in workspace '/home/yousef/Downloads/demo' for client Visual Studio Code 1.77.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/yousef/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.13 01:51:21 INFO  time: initialize in 2.06s
+2023.04.13 01:51:32 WARN  Build server is not auto-connectable.
+2023.04.13 01:51:33 WARN  no build target for: /home/yousef/Downloads/demo/src/main/java/com/example/demo/calculator/calccontroller.java
+Apr 13, 2023 1:51:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Apr 13, 2023 1:51:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2023.04.13 01:51:43 INFO  time: code lens generation in 5.87s
+2023.04.13 01:51:43 INFO  time: code lens generation in 7.26s
+2023.04.13 04:05:37 INFO  Shutting down server
+2023.04.13 04:05:37 INFO  shutting down Metals
+2023.04.13 04:05:39 INFO  Exiting server
